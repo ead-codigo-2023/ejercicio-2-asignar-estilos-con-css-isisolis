@@ -1,0 +1,64 @@
+body
+{
+background-color: #FFF;
+font-family: 'Poppins', sans-serif;
+}
+
+h1
+{
+ font-size: 72px;
+text-transform: uppercase;
+line-height: 90px;
+font-weight: 900;
+width: 370px;
+height: 355px;
+}
+
+p
+{font-weight: 400;
+    font-size: 24px;
+    line-height: 36px;
+ }
+
+ a
+ {
+ font-size: 22.5px;
+ font-weight: 500;
+ letter-spacing: -1.125px;
+ border-radius: 8px;
+ background: #000;
+ padding: 12px 22px;
+ color:rgba(255, 255, 255, 1)
+
+ 
+    }
+    .hero{
+        background-image: url(../Imagen/image\ \(1\).jpg);
+        background-repeat: no-repeat;
+        background-position: bottom right;
+        padding: 30px  50px;
+        width: 1280px;
+        height: 640px;
+        background-color: #F4F6F5;
+        border-radius: 40px
+        
+        
+    }
+    #lets
+    { 
+        width: 345.859;
+        height: 84.236;
+        transform: rotate(-1.981deg);
+        flex-shrink:  0;
+        background: #fff
+
+    }
+#unique
+{
+    width: 368.961;
+    height: 88.3;
+    transform: rotate(-1.981deg);
+    flex-shrink:  0;
+    background: #ffed22
+
+}
